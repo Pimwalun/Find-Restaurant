@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string-array name="menu_long">
+        <item>ฮอทโตะ เซ็ท ไก่กรอบ THB 145\nฮอทโตะ เซ็ท หมูพิริคาระ THB 155\nบันไก่กรอบ THB 65\nบันหมูพิริคาระ THB 75\nเบนโตะไก่กรอบ THB 75\nCoco cool THB 65
+            \n7 Hours Coffee THB 65\nFamily Set THB 730\nCurry rice THB 95</item>
+        <item>ข้าวมันไก่ THB 40 พิเศษ THB 50</item>
+        <item>สเต็กหมูคุโรบูตะ THB 95\nมันบด THB 39\nมันบดเบค่อนชีส THB 49\nไก่ย่างบาบีคิว THB 85\nFish and chips THB 85\nผักโขมอบชีส THB 65\nHam Steak THB99
+            \nอกไก่สี่สหาย THB 149\nริบอายโขคุน THB 165\nยำสลัดทูน่า THB 85</item>
+        <item>ใบพาย THB 162\nริบอาย THB 217\nสันใน THB 125\nริบอาย วากิว THB 784\nหมูดำคุโรบูตะ THB 300\nเสือร้องไห้ THB 98\nฝาครอบ วากิว THB 218
+            \nใบพาย วากิว THB 480</item>
+        <item>Buffet THB 299</item>
+        <item>สเต็กหมู THB 59\nพอร์คชอป THB 89\nมันบด THB 29\nมันบดอบชีส THB 39\nไก่ย่างบาบีคิว THB 75\nผักโขมอบชีส THB 69\nHam Steak THB99
+            \nเสต็กไก่สไปซี่ THB 75\nริบอายโขคุน THB 159\nนัตเก็ต THB 39</item>
+        <item>Chicken Doria THB 120\nChashu Don with Onsen Egg THB 120\nMc Au Gratin THB 120\nSeafood Doria THB 120\nEgg Benedict THB 120
+            \nข้าวซุปกาปลาไหล THB 250\nข้าวซุปกากระดูกหมูชาชู THB 120</item>
+        <item>Buffet THB 259</item>
+        <item>ซาชิแซลมอน THB 99\nซาชิมิปูอัด THB 55\nซาชิรวม THB 175\nซาชิท้องแซลมอน THB 165\nข้าวหน้าไก่คาราอาเกะ THB 79\nข้าวหน้าหมูย่าง THB 89
+            \nข้าวหน้าหมู THB 95\nข้าวหน้าเนื้อ THB 115\nอุด้งหมู THB 105\nอุด้งเนื้อ THB 119\nข้าวหน้าแซลมอน THB 185\nข้าวหน้าแซลมอนย่าง THB 175\n
+            ข้าวปลาไหลย่าง THB 259</item>
+    </string-array>
+</resources>
